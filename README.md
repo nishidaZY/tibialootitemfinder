@@ -12,7 +12,6 @@ A fan-made web app for [Tibia](https://www.tibia.com/) players to look up item p
 - **Fuzzy search** — typo-tolerant live search powered by Fuse.js (try `gren adargoin lether` → Green Dragon Leather)
 - **Loot Analyser** — paste your hunt loot text and instantly see what to sell to NPCs vs. the Market
 - **Market premium badges** — highlights items where the Market pays significantly more than NPCs
-- **Dracula theme** — dark UI with animated pixel art
 
 ---
 
